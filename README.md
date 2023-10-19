@@ -11,7 +11,7 @@ After installing Proxmox, there are a few settings that I like to change.
 nano /etc/apt/sources.list
 
 # add this line to the end of the file
-deb http://download.proxmox.com/debian buster pve-no-subscription
+deb http://download.proxmox.com/debian bullseye pve-no-subscription
 
 # edit /etc/apt/sources.list.d/pve-enterprise.list
 nano /etc/apt/sources.list.d/pve-enterprise.list
