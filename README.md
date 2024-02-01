@@ -55,6 +55,10 @@ reboot
 
 ## Some Other Settings
 
+- [Sata Passthrough in PBS](./sata-passthrough-in-pbs/)
+
+## Some Other Cool Stuff
+
 - [LXC with Docker-Compose](./lxc/)
 - [FRP](./frp/)
 - [K3s](./k3s/)
