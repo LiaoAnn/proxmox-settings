@@ -58,3 +58,4 @@ reboot
 - [LXC with Docker-Compose](./lxc/)
 - [FRP](./frp/)
 - [K3s](./k3s/)
+- [K3s with Ansible](./k3s-with-ansible/)
