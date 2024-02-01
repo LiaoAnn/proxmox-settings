@@ -55,6 +55,6 @@ reboot
 
 ## Some Other Settings
 
-- [LXC with Docker-Compose](./lxc/README.md)
-- [FRP](./frp/README.md)
-- [K3s](./k3s/README.md)
+- [LXC with Docker-Compose](./lxc/)
+- [FRP](./frp/)
+- [K3s](./k3s/)
